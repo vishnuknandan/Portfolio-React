@@ -99,7 +99,7 @@ const Hero: React.FC = () => {
           </a>
 
 <a
-  href="/vishnu_resume.pdf"
+  href="https://drive.google.com/file/d/1YGJ3tWAkDGPj0qXishwTasZ40RmNcrS6/view?usp=drive_link"
   target="_blank"
   rel="noopener noreferrer"
   className="group inline-flex items-center gap-2 px-8 py-3 bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-700 text-gray-800 dark:text-white rounded-xl shadow-md hover:scale-105 transition transform"
