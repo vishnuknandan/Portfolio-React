@@ -100,12 +100,15 @@ const Hero: React.FC = () => {
 
 <a
   href="/vishnu_resume.pdf"
-  download
+  target="_blank"
+  rel="noopener noreferrer"
   className="group inline-flex items-center gap-2 px-8 py-3 bg-white dark:bg-gray-900 border border-gray-300 dark:border-gray-700 text-gray-800 dark:text-white rounded-xl shadow-md hover:scale-105 transition transform"
 >
   <Download size={18} className="group-hover:animate-bounce" />
-  Download Resume
+  View Resume
 </a>
+
+
 
         </motion.div>
       </div>
